@@ -1,3 +1,3 @@
-module github.com/stasiska/ptotos
+module github.com/stasiska/protos
 
 go 1.24.4
